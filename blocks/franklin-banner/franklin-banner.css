@@ -1,0 +1,22 @@
+.franklin-banner > div {
+  background-color: lightgray;
+  text-align: center;
+  padding: 2rem;
+}
+
+.franklin-banner img {
+  width: 500px;
+}
+
+/* @media (width >= 900px) {
+  .columns > div {
+    align-items: center;
+    flex-direction: unset;
+    gap: 32px;
+  }
+
+  .columns > div > div {
+    flex: 1;
+    order: unset;
+  }
+} */

@@ -1,0 +1,5 @@
+.sports-list > div {
+    font-size: var(--body-font-size-s);
+    color: blue;
+    font-family: cursive;
+  }

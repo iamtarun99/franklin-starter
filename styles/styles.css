@@ -208,3 +208,6 @@ main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
 }
+main .section.homepage {
+  background-color: rgb(149, 4, 4);
+}
